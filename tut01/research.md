@@ -30,3 +30,10 @@
         - Monitoring the market and competitive analysis.
         - Defining a vision for a product.
         - Prioritizing product features and capabilities.
+3. [Product manager vs. project manager: What’s the difference? (Asana)](https://asana.com/resources/product-manager-vs-project-manager)
+    - Differences
+        - A product serves a particular group or target market, satisfying their needs.
+        - A project involves a collection of tasks aimed at achieving a specific goal or outcome.
+    - Relationships
+        - Product managers focus on the development, lifecycle, and success of a product.
+        - Project managers oversee and coordinate the tasks required to complete a project, which could include developing a product or implementing a new process.
