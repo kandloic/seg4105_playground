@@ -16,4 +16,17 @@
     - Communicate project status and manage changes.
     - Request additional resources when necessary.
     - Develop test plans based on client requirements.
-1. 
+2. [Product Manager: The role and best practices for beginners (Atlassian)](https://www.atlassian.com/agile/product-management/product-manager)
+    - What:
+        - Identify customer needs and business objectives.
+        - Define success criteria for products or features.
+        - Lead cross-functional teams to execute the product vision.
+    - Why:
+        - Ensure products align with customer needs and business goals.
+        - Provide clear direction for effective product development.
+        - Facilitate collaboration and bring the product vision to life.
+    - How:
+        - Conduct user research to gather insights into user preferences, pain points, and behaviors.
+        - Monitoring the market and competitive analysis.
+        - Defining a vision for a product.
+        - Prioritizing product features and capabilities.
