@@ -31,4 +31,13 @@ The Cartographer uses tools like user research to uncover hidden treasures (cust
 ## 3. Understanding the Difference – The Junction
 
 As your journey progresses, you'll reach a junction, where the paths of The Navigator and The Cartographer diverge.
+
+![Junction](https://images.pexels.com/photos/13789645/pexels-photo-13789645.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+_Source: Pexels_
+
 The Cartographer focuses on mapping the terrain (product development) to ensure it aligns with the landscape (customer needs and business goals). Meanwhile, The Navigator concentrates on steering the ship (project execution) to reach the destination on time and within budget.
+
+![PM vs PM](pm_vs_pm.webp)
+
+_Source:_ [_Asana_](https://asana.com/resources/product-manager-vs-project-manager)
