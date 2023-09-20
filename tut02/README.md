@@ -3,4 +3,4 @@
 - Name: Jean Loic Kandikandi
 - ID: 300113205
 - Course: SEG 4105
-- Submission: Blogpost (`BLOGPOST.md`)
+- Submission: Summary notes on Shaping (`summary-notes.md`)
