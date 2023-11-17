@@ -11,7 +11,6 @@ class: SEG 4105
 
 4a. **Throwing more resources at a project can only shorten duration up to a certain point**
    - Answer: Throwing more resources at a project can only shorten the duration up to a certain threshold because the duration depends on other factors beyond availability of resources.
-   - Score: 
    - Gaps: Does not mention project task dependencies.
    - Correction: Throwing more resources at a project can only shorten duration up to a certain point as the presence of interdependent tasks introduces a limit to the efficacy of adding more resources. If task B cannot start until task A finishes, that will remain true, no matter the number of additional resources allocated to the project.
 
